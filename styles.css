@@ -60,8 +60,10 @@ header nav ul li a:hover {
 }
 
 #home img {
-  max-width: 100%;
+  width: 70%; /* Adjust as needed */
+  max-width: 600px; /* Example maximum width */
   height: auto;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
